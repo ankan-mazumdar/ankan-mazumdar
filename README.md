@@ -11,7 +11,6 @@ Our aim is to create content on generative AI, data science, machine learning, a
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your_kaggle)
 
 ## Latest YouTube Videos
-- [Getting Started with GPT-4.0 API for Beginners](https://www.youtube.com/watch?v=your_video)
 - [MySQL database with PandasAI & Ollama & Streamlit](https://www.youtube.com/watch?v=your_video)
 - [How to Use PandasAI Agent with Llama 3 using Ollama?](https://www.youtube.com/watch?v=your_video)
 - [How to Use Llama 3 with PandasAI and Ollama Locally](https://www.youtube.com/watch?v=your_video)
