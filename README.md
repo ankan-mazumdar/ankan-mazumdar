@@ -3,12 +3,11 @@
 Our aim is to create content on generative AI, data science, machine learning, and deep learning, and try to make these areas understandable for everyone. We are a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 🔽
 
 ## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your_kaggle)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your_channel)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your_medium)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your_kaggle)
 
 ## Latest YouTube Videos
 - [MySQL database with PandasAI & Ollama & Streamlit](https://www.youtube.com/watch?v=your_video)
