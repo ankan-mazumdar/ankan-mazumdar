@@ -19,9 +19,6 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ## Latest Blog Posts
 - [Unlocking LLMOps using LangChain](https://medium.com/@your_medium/unlocking-llmops-using-langchain)
 - [Building A Multilingual NER App with HuggingFace](https://medium.com/@your_medium/building-a-multilingual-ner-app-with-huggingface)
-- [Top 8 Programming Languages for Data Science](https://medium.com/@your_medium/top-8-programming-languages-for-data-science)
-- [Building a Text Classifier App with Hugging Face, BERT, and Comet](https://medium.com/@your_medium/building-a-text-classifier-app-with-huggingface-bert-and-comet)
-- [Kickstart Your NLP Career with This Easy-to-Follow Roadmap](https://medium.com/@your_medium/kickstart-your-nlp-career-with-this-easy-to-follow-roadmap)
 
 
 - 🔭 I’m currently working on ...
