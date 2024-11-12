@@ -10,23 +10,24 @@ Data Science Projects-
 [Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles](https://github.com/ankan-mazumdar/Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles)
 
 Gen AI Projects-
-- https://github.com/ankan-mazumdar/PandasAI
-- https://github.com/ankan-mazumdar/End-to-End-Multi-AI-Agents-RAG-With-LangGraph-AstraDB-And-Llama-3.1
-- https://github.com/ankan-mazumdar/End-To-End-Gemini-LLM
-- https://github.com/ankan-mazumdar/healthapp
-- https://github.com/ankan-mazumdar/Ytranscriber
-- https://github.com/ankan-mazumdar/BQ-streamlit
-- https://github.com/ankan-mazumdar/image-reading-LLM
-- https://github.com/ankan-mazumdar/SQLDB_Clothes_sales_LLM
-- https://github.com/ankan-mazumdar/Q-A_with_faiss
-- https://github.com/ankan-mazumdar/_news_research_tool
-- https://github.com/ankan-mazumdar/RestaurantNameGenerator
-- https://github.com/ankan-mazumdar/PDF-LLM---ChatWithPDF
-- https://github.com/ankan-mazumdar/SQL-assistant-LLM
-- https://github.com/ankan-mazumdar/Universal-Web-Scraper
-- https://github.com/ankan-mazumdar/langchain_csv
-- https://github.com/ankan-mazumdar/AIWeatherAgent-master
-- https://github.com/ankan-mazumdar/Demo-Machine-Learning-app
+
+- [PandasAI](https://github.com/ankan-mazumdar/PandasAI)
+- [End-to-End-Multi-AI-Agents-RAG-With-LangGraph-AstraDB-And-Llama-3.1](https://github.com/ankan-mazumdar/End-to-End-Multi-AI-Agents-RAG-With-LangGraph-AstraDB-And-Llama-3.1)
+- [End-To-End-Gemini-LLM](https://github.com/ankan-mazumdar/End-To-End-Gemini-LLM)
+- [healthapp](https://github.com/ankan-mazumdar/healthapp)
+- [Ytranscriber](https://github.com/ankan-mazumdar/Ytranscriber)
+- [BQ-streamlit](https://github.com/ankan-mazumdar/BQ-streamlit)
+- [image-reading-LLM](https://github.com/ankan-mazumdar/image-reading-LLM)
+- [SQLDB_Clothes_sales_LLM](https://github.com/ankan-mazumdar/SQLDB_Clothes_sales_LLM)
+- [Q-A_with_faiss](https://github.com/ankan-mazumdar/Q-A_with_faiss)
+- [_news_research_tool](https://github.com/ankan-mazumdar/_news_research_tool)
+- [RestaurantNameGenerator](https://github.com/ankan-mazumdar/RestaurantNameGenerator)
+- [PDF-LLM---ChatWithPDF](https://github.com/ankan-mazumdar/PDF-LLM---ChatWithPDF)
+- [SQL-assistant-LLM](https://github.com/ankan-mazumdar/SQL-assistant-LLM)
+- [Universal-Web-Scraper](https://github.com/ankan-mazumdar/Universal-Web-Scraper)
+- [langchain_csv](https://github.com/ankan-mazumdar/langchain_csv)
+- [AIWeatherAgent-master](https://github.com/ankan-mazumdar/AIWeatherAgent-master)
+- [Demo-Machine-Learning-app](https://github.com/ankan-mazumdar/Demo-Machine-Learning-app)
 
 
 Data Analysis projects-
