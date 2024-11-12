@@ -9,6 +9,31 @@ Data Engineering Projects-
 Data Science Projects-
 [Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles](https://github.com/ankan-mazumdar/Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles)
 
+Gen AI Projects-
+- https://github.com/ankan-mazumdar/PandasAI
+- https://github.com/ankan-mazumdar/End-to-End-Multi-AI-Agents-RAG-With-LangGraph-AstraDB-And-Llama-3.1
+- https://github.com/ankan-mazumdar/End-To-End-Gemini-LLM
+- https://github.com/ankan-mazumdar/healthapp
+- https://github.com/ankan-mazumdar/Ytranscriber
+- https://github.com/ankan-mazumdar/BQ-streamlit
+- https://github.com/ankan-mazumdar/image-reading-LLM
+- https://github.com/ankan-mazumdar/SQLDB_Clothes_sales_LLM
+- https://github.com/ankan-mazumdar/Q-A_with_faiss
+- https://github.com/ankan-mazumdar/_news_research_tool
+- https://github.com/ankan-mazumdar/RestaurantNameGenerator
+- https://github.com/ankan-mazumdar/PDF-LLM---ChatWithPDF
+- https://github.com/ankan-mazumdar/SQL-assistant-LLM
+- https://github.com/ankan-mazumdar/Universal-Web-Scraper
+- https://github.com/ankan-mazumdar/langchain_csv
+- https://github.com/ankan-mazumdar/AIWeatherAgent-master
+- https://github.com/ankan-mazumdar/Demo-Machine-Learning-app
+
+
+Data Analysis projects-
+- [Order-Data-Analysis](https://github.com/ankan-mazumdar/Order-Data-Analysis) 
+
+
+
 
 ## Latest YouTube Videos
 - [MySQL database with PandasAI & Ollama & Streamlit](([https://www.youtube.com/watch?v=your_video)](https://github.com/ankan-mazumdar/News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric))
