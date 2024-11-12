@@ -36,12 +36,7 @@ Data Analysis projects-
 
 
 
-## Latest YouTube Videos
-- [MySQL database with PandasAI & Ollama & Streamlit](([https://www.youtube.com/watch?v=your_video)](https://github.com/ankan-mazumdar/News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric))
-  
-- [How to Use PandasAI Agent with Llama 3 using Ollama?](https://www.youtube.com/watch?v=your_video)
-- [How to Use Llama 3 with PandasAI and Ollama Locally](https://www.youtube.com/watch?v=your_video)
-- [AUTOMATE Your Blog Posts with CREWAI and OLLAMA](https://www.youtube.com/watch?v=your_video)
+
 
 ## Latest Blog Posts
 - [Unlocking LLMOps using LangChain](https://medium.com/@your_medium/unlocking-llmops-using-langchain)
@@ -62,3 +57,9 @@ Data Analysis projects-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Latest YouTube Videos
+- [MySQL database with PandasAI & Ollama & Streamlit](([https://www.youtube.com/watch?v=your_video)](https://github.com/ankan-mazumdar/News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric))
+  
+- [How to Use PandasAI Agent with Llama 3 using Ollama?](https://www.youtube.com/watch?v=your_video)
+- [How to Use Llama 3 with PandasAI and Ollama Locally](https://www.youtube.com/watch?v=your_video)
+- [AUTOMATE Your Blog Posts with CREWAI and OLLAMA](https://www.youtube.com/watch?v=your_video)
