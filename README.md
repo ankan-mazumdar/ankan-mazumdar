@@ -1,7 +1,7 @@
 # Hi There 👋, Thanks for visiting my github profile
 
 Data Engineering Projects-
-- [Data-Analytics-Azure-End-To-End-Data-Engineering]((https://github.com/ankan-mazumdar/Data-Analytics-Azure-End-To-End-Data-Engineering))
+- [Data-Analytics-Azure-End-To-End-Data-Engineering](https://github.com/ankan-mazumdar/Data-Analytics-Azure-End-To-End-Data-Engineering)
 
 
 - [News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric](https://github.com/ankan-mazumdar/News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric))
