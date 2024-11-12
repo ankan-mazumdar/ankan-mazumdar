@@ -19,12 +19,6 @@ Data Science Projects-
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ankanmazumdar2016)
 
 
-## Latest YouTube Videos
-- [MySQL database with PandasAI & Ollama & Streamlit](([https://www.youtube.com/watch?v=your_video)](https://github.com/ankan-mazumdar/News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric))
-  
-- [How to Use PandasAI Agent with Llama 3 using Ollama?](https://www.youtube.com/watch?v=your_video)
-- [How to Use Llama 3 with PandasAI and Ollama Locally](https://www.youtube.com/watch?v=your_video)
-- [AUTOMATE Your Blog Posts with CREWAI and OLLAMA](https://www.youtube.com/watch?v=your_video)
 
 
 - 🔭 I’m currently working on Data Engineering and Data Science Projcets
@@ -35,3 +29,7 @@ Data Science Projects-
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: 
 -->
+
+##  YouTube Videos
+- [How to Use PandasAI Agent with Llama 3 using Ollama?](https://www.youtube.com/watch?v=your_video)
+- [AUTOMATE Your Blog Posts with CREWAI and OLLAMA](https://www.youtube.com/watch?v=your_video)
