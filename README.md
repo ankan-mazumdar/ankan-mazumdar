@@ -1,10 +1,16 @@
 # Hi There 👋, Thanks for visiting my github profile
 
+https://github.com/ankan-mazumdar/StockMarketAnalytics-Prediction
+
 Data Engineering Projects-
 - [Data-Analytics-Azure-End-To-End-Data-Engineering](https://github.com/ankan-mazumdar/Data-Analytics-Azure-End-To-End-Data-Engineering)
 - [End-to-End-Azure-Data-Engineering-Project](https://github.com/ankan-mazumdar/End-to-End-Azure-Data-Engineering-Project)
 - [End-to-End-Data_engineering_Region_wise_global_data_analysis](https://github.com/ankan-mazumdar/End-to-End-Data_engineering_Region_wise_global_data_analysis)
 - [News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric](https://github.com/ankan-mazumdar/News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric))
+- https://github.com/ankan-mazumdar?page=2&tab=repositories#:~:text=Ankan%2Duber%2Detl%2Dpipeline%2Ddata%2Dengineering%2Dproject
+- https://github.com/ankan-mazumdar/Realtime-Data-Streaming-With-TCP-Socket-Apache-Spark-OpenAI-LLM-Kafka-and-Elasticsearch-End-to-End
+- https://github.com/ankan-mazumdar/Realtime-Data-Streaming-using-Kafka-End-to-End-DE-
+- 
 
 Data Science Projects-
 [Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles](https://github.com/ankan-mazumdar/Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles)
@@ -31,9 +37,14 @@ Gen AI Projects-
 
 
 Data Analysis projects-
+- https://github.com/ankan-mazumdar/Amazon-Food-reviews-sentiment-Analysis
 - [Order-Data-Analysis](https://github.com/ankan-mazumdar/Order-Data-Analysis) 
+- https://github.com/ankan-mazumdar/Top_Youtubers_Data_Analysis_Project
 
-
+- 
+Acdemic projects-
+https://github.com/ankan-mazumdar/Data-Labeling-of-URL
+https://github.com/ankan-mazumdar/file-manager
 
 
 
