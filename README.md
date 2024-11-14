@@ -7,9 +7,9 @@ Data Engineering Projects-
 - [End-to-End-Azure-Data-Engineering-Project](https://github.com/ankan-mazumdar/End-to-End-Azure-Data-Engineering-Project)
 - [End-to-End-Data_engineering_Region_wise_global_data_analysis](https://github.com/ankan-mazumdar/End-to-End-Data_engineering_Region_wise_global_data_analysis)
 - [News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric](https://github.com/ankan-mazumdar/News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric))
-- https://github.com/ankan-mazumdar?page=2&tab=repositories#:~:text=Ankan%2Duber%2Detl%2Dpipeline%2Ddata%2Dengineering%2Dproject
-- https://github.com/ankan-mazumdar/Realtime-Data-Streaming-With-TCP-Socket-Apache-Spark-OpenAI-LLM-Kafka-and-Elasticsearch-End-to-End
-- https://github.com/ankan-mazumdar/Realtime-Data-Streaming-using-Kafka-End-to-End-DE-
+- [Ankan-uber-etl-pipeline-data-engineering-project](https://github.com/ankan-mazumdar/Ankan-uber-etl-pipeline-data-engineering-project)
+- [Realtime-Data-Streaming-With-TCP-Socket-Apache-Spark-OpenAI-LLM-Kafka-and-Elasticsearch-End-to-End](https://github.com/ankan-mazumdar/Realtime-Data-Streaming-With-TCP-Socket-Apache-Spark-OpenAI-LLM-Kafka-and-Elasticsearch-End-to-End)
+- [Realtime-Data-Streaming-using-Kafka-End-to-End-DE-](https://github.com/ankan-mazumdar/Realtime-Data-Streaming-using-Kafka-End-to-End-DE-)
 - 
 
 Data Science Projects-
