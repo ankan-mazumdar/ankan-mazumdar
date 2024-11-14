@@ -43,7 +43,7 @@ Data Analysis projects-
 - https://github.com/ankan-mazumdar/Top_Youtubers_Data_Analysis_Project
 
 - 
-Acdemic projects-
+Academic projects-
 [Annoting Malicious-URL using Active Learning](https://github.com/ankan-mazumdar/Data-Labeling-of-URL)
 [https://github.com/ankan-mazumdar/file-manager](https://github.com/ankan-mazumdar/file-manager)
 
