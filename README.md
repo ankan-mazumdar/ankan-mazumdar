@@ -38,9 +38,10 @@ Gen AI Projects-
 
 
 Data Analysis projects-
-- https://github.com/ankan-mazumdar/Amazon-Food-reviews-sentiment-Analysis
+- [Amazon-Food-reviews-sentiment-Analysis](https://github.com/ankan-mazumdar/Amazon-Food-reviews-sentiment-Analysis)
+- [Top_Youtubers_Data_Analysis_Project](https://github.com/ankan-mazumdar/Top_Youtubers_Data_Analysis_Project)
 - [Order-Data-Analysis](https://github.com/ankan-mazumdar/Order-Data-Analysis) 
-- https://github.com/ankan-mazumdar/Top_Youtubers_Data_Analysis_Project
+- 
 
 - 
 Academic projects-
