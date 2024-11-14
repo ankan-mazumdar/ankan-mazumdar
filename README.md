@@ -44,8 +44,8 @@ Data Analysis projects-
 
 - 
 Acdemic projects-
-https://github.com/ankan-mazumdar/Data-Labeling-of-URL
-https://github.com/ankan-mazumdar/file-manager
+[Annoting Malicious-URL using Active Learning](https://github.com/ankan-mazumdar/Data-Labeling-of-URL)
+[https://github.com/ankan-mazumdar/file-manager](https://github.com/ankan-mazumdar/file-manager)
 
 
 
