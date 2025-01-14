@@ -14,9 +14,9 @@ Data Engineering Projects-
 
 Data Science/ ML Projects-
 
-[Image labelling Tool using Active-Learning and Transfer Learning](https://github.com/ankan-mazumdar/Active-Learning)
+- [Image labelling Tool using Active-Learning and Transfer Learning](https://github.com/ankan-mazumdar/Active-Learning)
 
-[Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles](https://github.com/ankan-mazumdar/Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles)
+- [Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles](https://github.com/ankan-mazumdar/Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles)
 
 Gen AI Projects-
 
@@ -43,14 +43,10 @@ Data Analysis projects-
 - [Amazon-Food-reviews-sentiment-Analysis](https://github.com/ankan-mazumdar/Amazon-Food-reviews-sentiment-Analysis)
 - [Top_Youtubers_Data_Analysis_Project](https://github.com/ankan-mazumdar/Top_Youtubers_Data_Analysis_Project)
 - [Order-Data-Analysis](https://github.com/ankan-mazumdar/Order-Data-Analysis) 
-- 
-
-- 
+  
 Academic projects-
 [Annoting Malicious-URL using Active Learning](https://github.com/ankan-mazumdar/Data-Labeling-of-URL)
 [https://github.com/ankan-mazumdar/file-manager](https://github.com/ankan-mazumdar/file-manager)
-
-
 
 
 ## Latest Blog Posts
