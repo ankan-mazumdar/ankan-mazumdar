@@ -57,11 +57,5 @@ Academic projects-
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ankanmazumdar2016)
 
 
-- 💬 Ask me about ...
-
-
--->
-## Latest YouTube Videos
-- [MySQL database with PandasAI & Ollama & Streamlit](([https://www.youtube.com/watch?v=your_video)](https://github.com/ankan-mazumdar/News-Data-Analytics--End-to-End-Azure-Data-Engineering-Project-using-Microsoft-Fabric))
   
 
