@@ -45,8 +45,8 @@ Data Analysis projects-
 - [Order-Data-Analysis](https://github.com/ankan-mazumdar/Order-Data-Analysis) 
   
 Academic projects-
-[Annoting Malicious-URL using Active Learning](https://github.com/ankan-mazumdar/Data-Labeling-of-URL)
-[https://github.com/ankan-mazumdar/file-manager](https://github.com/ankan-mazumdar/file-manager)
+- [Annoting Malicious-URL using Active Learning](https://github.com/ankan-mazumdar/Data-Labeling-of-URL)
+- [https://github.com/ankan-mazumdar/file-manager](https://github.com/ankan-mazumdar/file-manager)
 
 
 ## Latest Blog Posts
