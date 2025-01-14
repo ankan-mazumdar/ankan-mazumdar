@@ -12,7 +12,8 @@ Data Engineering Projects-
 - [Realtime-Data-Streaming-using-Kafka-End-to-End-DE-](https://github.com/ankan-mazumdar/Realtime-Data-Streaming-using-Kafka-End-to-End-DE-)
 - 
 
-Data Science Projects-
+Data Science/ ML Projects-
+
 [Image labelling Tool using Active-Learning and Transfer Learning](https://github.com/ankan-mazumdar/Active-Learning)
 [Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles](https://github.com/ankan-mazumdar/Top-Notch-Data-Science-Project-Price-Prediction-Using-Core-ML-and-MLOps-Principles)
 
