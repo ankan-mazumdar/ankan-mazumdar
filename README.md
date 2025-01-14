@@ -1,6 +1,5 @@
 # Hi There 👋, Thanks for visiting my github profile
 
-https://github.com/ankan-mazumdar/StockMarketAnalytics-Prediction
 
 Data Engineering Projects-
 - [Data-Analytics-Azure-End-To-End-Data-Engineering](https://github.com/ankan-mazumdar/StockMarketAnalytics-Prediction)
