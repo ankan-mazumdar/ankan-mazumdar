@@ -3,6 +3,7 @@
 https://github.com/ankan-mazumdar/StockMarketAnalytics-Prediction
 
 Data Engineering Projects-
+- [Data-Analytics-Azure-End-To-End-Data-Engineering](https://github.com/ankan-mazumdar/StockMarketAnalytics-Prediction)
 - [Data-Analytics-Azure-End-To-End-Data-Engineering](https://github.com/ankan-mazumdar/Data-Analytics-Azure-End-To-End-Data-Engineering)
 - [End-to-End-Azure-Data-Engineering-Project](https://github.com/ankan-mazumdar/End-to-End-Azure-Data-Engineering-Project)
 - [End-to-End-Data_engineering_Region_wise_global_data_analysis](https://github.com/ankan-mazumdar/End-to-End-Data_engineering_Region_wise_global_data_analysis)
