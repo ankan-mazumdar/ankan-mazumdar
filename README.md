@@ -46,12 +46,9 @@ Data Analysis projects-
   
 Academic projects-
 - [Annoting Malicious-URL using Active Learning](https://github.com/ankan-mazumdar/Data-Labeling-of-URL)
-- [https://github.com/ankan-mazumdar/file-manager](https://github.com/ankan-mazumdar/file-manager)
+- [All purpose file-manager](https://github.com/ankan-mazumdar/file-manager)
 
 
-## Latest Blog Posts
-- [Unlocking LLMOps using LangChain](https://medium.com/@your_medium/unlocking-llmops-using-langchain)
-- [Building A Multilingual NER App with HuggingFace](https://medium.com/@your_medium/building-a-multilingual-ner-app-with-huggingface)
 
 ## Let's Connect!
 
